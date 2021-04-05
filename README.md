@@ -30,4 +30,4 @@ THEN I am again presented with current and future conditions for that city
 
 The following image shows the web application's appearance and functionality:
 
-![Mockup](./Assets/weather-dashboard-mockup.png)
+![Mockup](https://github.com/ronyelon/Weather-Dashboard/blob/main/assets/weather-dashboard-mockup.png)
